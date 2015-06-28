@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Bruce's Blog 
-description: An computer enthusiast
+description: A computer enthusiast
 
 # url is currently only used only for the RSS feed in feed.xml
 url: http://binkougz.github.io
@@ -23,8 +23,8 @@ gaaccount: ''
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus: ''
-comments:
+disqus: binkougz
+comments: true
 
 permalink: /:year/:month/:title
 paginate: 3
