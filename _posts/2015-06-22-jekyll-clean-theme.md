@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jekyll Clean Theme"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 2015-06-28 18:09:00
 comments: false
 ---
 post to test stream
