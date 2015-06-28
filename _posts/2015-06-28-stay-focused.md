@@ -1,21 +1,17 @@
 ---
 layout: post
-title: "专注的力量"
+title: "Jekyll blog 的定制"
 date: 2015-06-28 21:27:00
 comments: false
 ---
 
-##专注能帮我们实现任何实际可行的目标
+##基于Jekyll的Blog定制过程
 
-> Staying focused can help you accomplish almost anything, from studying for a test to finishing your work an hour early. Staying focused can help improve your professional life, help you listen to people better, and also help you come up with a solution to problems at a quicker speed. If you want to know how to stop checking your Facebook or phone every fifteen minutes and to stay focused on the task ahead of you, just follow these few steps.
+我在此之前一直用的是Octopress，但苦于每次都需要在本地编译才能上传到gh pages上，所以这才下决心转到用Jekyll，这样就可以在手机端直接发新的日志了。
 
-```python
-   def gcd(p, q):
-      if q <= 0:
-          return p
-      r = p / q
-      return gcd(q, r)
-```
+本贴将会持续更新，希望最终能展现一些不同的风格。
+
+
 
 
 
